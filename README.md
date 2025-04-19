@@ -80,7 +80,6 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 👨‍💻 Developer
 Sukanta Datta
-GitHub
-LinkedIn
+
 
 <div align="center"> <p>Made with 💖 and ✨ magic</p> <p>⭐ Star this repository if you love parallax effects!</p> </div> 
