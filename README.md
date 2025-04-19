@@ -38,6 +38,7 @@ Open in browser:
 
 bash
 open `index.html`
+
 🎨 Customization Guide
 Changing Content
 Edit text in `index.html`:
