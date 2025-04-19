@@ -40,23 +40,29 @@ bash
 open `index.html`
 🎨 Customization Guide
 Changing Content
-Edit text in index.html:
+Edit text in `index.html`:
 
 html
+```
 <h1 class="title">Your New Headline</h1>
 <div class="subtitle">Your captivating subtitle</div>
+```
 Using Your Own Images
 Replace image paths in HTML/CSS:
 
 css
+```
 .parallax-layer {
   background-image: url('./your-image.jpg');
 }
+```
 Adjusting Animation Speed
-Modify in script.js:
+Modify in `script.js`:
 
 javascript
+```
 parallaxSpeed: 0.5  // Values between 0.1 (slow) to 1 (fast)
+```
 🏗️ Project Structure
 ```
 Parallax-website/
